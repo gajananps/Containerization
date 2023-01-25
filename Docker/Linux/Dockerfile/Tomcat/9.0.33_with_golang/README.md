@@ -1,6 +1,9 @@
 Workload name: Tomcat
+
 Support OS: Linux
+
 Workload Version: 9.0.33
+
 Dependency: OpenJDK-8.1.10.3, Go-1.10.3
 
 # Docker Image ID: 
