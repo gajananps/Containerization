@@ -1,6 +1,6 @@
 Workload name: Tomcat
 
-Support OS: Debian 10
+Support OS: Debian 10 [Buster]
 
 Workload Version: 9.0.33
 
